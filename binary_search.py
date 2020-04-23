@@ -15,7 +15,6 @@
 	0 ≤ 𝑗 < 𝑘
 '''
 
-import numpy as np
 
 def BinarySearch(values, left, right, key):
 	if right < left:

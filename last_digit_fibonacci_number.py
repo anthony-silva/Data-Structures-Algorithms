@@ -4,13 +4,17 @@
 
  Description: Given an integer n, find the last digit of
 	      the nth Fibonacci number F(n)
+
  Input: The input consists of a single integer n
- Output: F(n)
+
+ Output: Last digit of the nth Fibonacci number
+
  Contraints: 0 <= n <= 45
 '''
+
 import numpy as np
 
-def Fibonacci(n):
+def LastFibonacci(n):
 	if n <= 1:
 		return n
 
@@ -22,5 +26,5 @@ def Fibonacci(n):
 
 if __name__ == "__main__":
 	n = int(input())
-	print(Fibonacci(n))
+	print(LastFibonacci(n))
 	
