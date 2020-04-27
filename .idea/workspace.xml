@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d30a51-fa4c-496d-bcbb-1f1777e5e652" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/edit_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcs3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max_gold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placing_paranthesis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/last_digit_fibonacci_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/last_digit_fibonacci_number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,5 +40,27 @@
       <updated>1587543981043</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587713322971">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="721" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1587713322971" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lcs.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lcs.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
