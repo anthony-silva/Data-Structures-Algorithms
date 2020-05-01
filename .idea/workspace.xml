@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d30a51-fa4c-496d-bcbb-1f1777e5e652" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build_heap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/check_brackets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/merging_tables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_height.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phonebook.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
