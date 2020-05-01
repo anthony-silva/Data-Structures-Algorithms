@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d30a51-fa4c-496d-bcbb-1f1777e5e652" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/edit_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lcs3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/max_gold.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/placing_paranthesis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build_heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check_brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/merging_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree_height.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +52,10 @@
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="721" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1587713322971" />
+    <state x="1006" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1588290744199">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="1006" y="359" key="com.intellij.ide.util.TipDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1588290744199" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
